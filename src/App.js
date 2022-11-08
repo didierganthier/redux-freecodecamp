@@ -11,6 +11,7 @@ function App() {
       <h2>{counter}</h2>
       <button onClick={() => dispatch({ type: "INCREMENT" })}>Increment</button>
       <button onClick={() => dispatch({ type: "DECREMENT" })}>Decrement</button>
+      <button onClick={() => dispatch({ type: "ADD BY", payload: 5 })}>Add By 5</button>
     </div>
   );
 }

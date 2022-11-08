@@ -18,6 +18,9 @@ Object {
         <button>
           Decrement
         </button>
+        <button>
+          Add By 5
+        </button>
       </div>
     </div>
   </body>,
@@ -34,6 +37,9 @@ Object {
       </button>
       <button>
         Decrement
+      </button>
+      <button>
+        Add By 5
       </button>
     </div>
   </div>,
