@@ -12,13 +12,19 @@ Object {
         <h2>
           0
         </h2>
-        <button>
+        <button
+          type="button"
+        >
           Increment
         </button>
-        <button>
+        <button
+          type="button"
+        >
           Decrement
         </button>
-        <button>
+        <button
+          type="button"
+        >
           Add By 5
         </button>
       </div>
@@ -32,13 +38,19 @@ Object {
       <h2>
         0
       </h2>
-      <button>
+      <button
+        type="button"
+      >
         Increment
       </button>
-      <button>
+      <button
+        type="button"
+      >
         Decrement
       </button>
-      <button>
+      <button
+        type="button"
+      >
         Add By 5
       </button>
     </div>

@@ -7,7 +7,7 @@ test('renders learn react link', () => {
   const view = render(
     <Provider store={store}>
       <App />
-    </Provider>
+    </Provider>,
   );
   expect(view).toMatchSnapshot();
 });
