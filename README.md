@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/freecodecamp-black)
 
-## Bookstore React
+## Redux Freecodecamp
 
 > Learning how to use Redux in freecodecamp full course for beginners. Learning how to use Redux with ReduxToolkit Library to create an application involving HTTP requests.
 
