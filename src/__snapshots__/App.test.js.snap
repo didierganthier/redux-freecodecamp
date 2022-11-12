@@ -25,7 +25,7 @@ Object {
         <button
           type="button"
         >
-          Add By 5
+          Add By
         </button>
       </div>
     </div>
@@ -51,7 +51,7 @@ Object {
       <button
         type="button"
       >
-        Add By 5
+        Add By
       </button>
     </div>
   </div>,
